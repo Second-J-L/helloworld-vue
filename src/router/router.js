@@ -1,4 +1,4 @@
-import App from '../App'
+import App from '../page/home'
 
 export default [{
   path: '/',
